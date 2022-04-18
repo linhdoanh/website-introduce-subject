@@ -5,9 +5,9 @@ Welcome to my project
 ## Table of Contents
 
  - [Description](#description)
- - [Screenshot preview](#screenshot-preview)
+ - [Screenshot preview](#screenshots preview)
  - [Technology](#technology)
- - [Functional requirements](#functional-requirements)
+ - [Functional requirements](#functional requirements)
  - [Contributors](#contributors)
  - [Copyright](#copyright)
  
