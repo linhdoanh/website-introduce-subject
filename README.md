@@ -11,7 +11,7 @@ Welcome to my projet
  - [Contributors](#contributors)
  - [Copyright](#copyright)
  
-## Screenshots
+## Screenshots Preview
 
 ![Screenshot 1](https://i.pinimg.com/564x/ff/e6/e6/ffe6e649c78fd7fee2bcdf5f2324b092.jpg)
 ![Screenshot 2](https://i.pinimg.com/564x/2a/6f/17/2a6f17cc51b52eb44c9acbd65fb9c5bb.jpg)
