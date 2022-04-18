@@ -11,6 +11,11 @@ Welcome to my project
  - [Contributors](#contributors)
  - [Copyright](#copyright)
  
+## Description
+
+- Introduction to 2 narrow majors in SE major
+- Help students in the third term onwards can orient the career they want to follow as well as provide more information about related technology news
+
 ## Screenshots Preview
 
 ![Screenshot 1](https://i.pinimg.com/564x/ff/e6/e6/ffe6e649c78fd7fee2bcdf5f2324b092.jpg)
@@ -52,3 +57,6 @@ Welcome to my project
 - **Trần Duy Hiếu Trung** - SE151132 | Databse designer | Backend Developer
 - **Trần Minh Huy** - SE150802 - UI Designer | Front-end Developer
 - **Lê Đặng Gia Minh** - SE150911 - UI Designer | Front-end Developer
+
+## Copyright
+#### © 2022 linhdoanh
