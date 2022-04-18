@@ -1,6 +1,6 @@
 # WEBSITE INTRODUCE SUBJECT SE & ITS
 
-Welcome to my projet
+Welcome to my project
 
 ## Table of Contents
 
@@ -48,7 +48,7 @@ Welcome to my projet
 
 ## Contributors
 
-- ** Đỗ Anh Linh ** - SE151281 - Leader | Database designer | Backend Developer
-- ** Trần Duy Hiếu Trung ** - SE151132 | Databse designer | Backend Developer
-- ** Trần Minh Huy ** - SE150802 - UI Designer | Front-end Developer
-- ** Lê Đặng Gia Minh ** - SE150911 - UI Designer | Front-end Developer
+- **Đỗ Anh Linh** - SE151281 - Leader | Database designer | Backend Developer
+- **Trần Duy Hiếu Trung** - SE151132 | Databse designer | Backend Developer
+- **Trần Minh Huy** - SE150802 - UI Designer | Front-end Developer
+- **Lê Đặng Gia Minh** - SE150911 - UI Designer | Front-end Developer
