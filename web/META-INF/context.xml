@@ -3,7 +3,7 @@
     <Resource 
         name = "FunnyProject" type="javax.sql.DataSource" auth="Container"
                 driverClassName="com.microsoft.sqlserver.jdbc.SQLServerDriver"
-                url="jdbc:sqlserver://localhost:1433;databaseName=MiniProject;instanceName=DESKTOP-TKCVSTT\SQLEXPRESS"
-               username = "sa" password="trung0933251079"
+                url="jdbc:sqlserver://localhost:1433;databaseName=MiniProject;instanceName=MSSQLSERVER01"
+               username = "sa" password="1234567890"
     />
 </Context>
